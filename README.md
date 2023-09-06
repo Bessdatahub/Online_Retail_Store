@@ -42,4 +42,10 @@ The top 10 countries with growth potential, excluding the UK due to its already 
  The map chart provides a visual representation of regions that have contributed significantly to revenue compared to those that have not. Notably, aside from the UK, countries such as the Netherlands, Ireland, Germany, France, and Australia stand out as substantial revenue generators. It is advisable for the company to allocate more resources to these regions to further stimulate demand for its products.
 
 The map also highlights that the majority of sales are concentrated in the European region, with limited activity in the American region. Furthermore, there is no discernible demand for the products in Africa, Asia, and Russia. This suggests an opportunity for the company to develop a new strategy aimed at these underperforming areas, potentially resulting in increased sales revenue and improved profitability.
+
  
+To interact with the dataset click [here](https://app.powerbi.com/groups/me/reports/8d5dd07c-6064-43cd-93e1-3897b0dcfbc6/ReportSection?experience=power-bi)
+
+
+![](thanks.jpg)
+
